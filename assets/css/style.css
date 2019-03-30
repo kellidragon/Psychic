@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+
+* {
+    box-sizing: border-box;
+    font-family:'Kaushan Script', cursive;
+}
+
+
+img {
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    top:0;
+    left: 0;
+    position: absolute;
+  }
+
+
+
+.card {
+    margin-top: 250px;
+    opacity: 0.7;
+    text-align: center;
+    font-family:'Kaushan Script', cursive;
+}
+
+h5{
+    font-size: 45px;
+}
