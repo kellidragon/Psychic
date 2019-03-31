@@ -1,0 +1,25 @@
+Psychic Game:
+
+How to Play the Game
+    1. Click anywhere to get started
+    2. Click a random letter on the keyboard to try and guess what the letter the computer is guessing.
+    3. If the number is correct, congrats! Your wins go up by +1.
+    4. If your number is wrong, try again, your turns will be deducted by 1.
+
+Technologies used:
+    - HTML
+    - CSS
+    - Javascript
+    - Bootstrap
+
+Project Overview - This Game Shows the Following:
+        1. How the computer picks a random value
+        2. How to track user events
+        3. How to track and compare computer choice and a user choice
+
+Challenges faced in this project:
+    1. Figuring out how to only let users choose a letter
+    2. I was not able to figure out how to disable users repeat letters
+
+Who maintains and contributes to the project
+    -This project is maintained by Kelli Dragon dragonkelli@gmail.com
